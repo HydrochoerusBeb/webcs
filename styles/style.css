@@ -1,0 +1,14 @@
+.card{
+    width: 400px;
+    height: 600px;
+    margin: 15px;
+    display: flex;
+    justify-content:space-between ;
+
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
